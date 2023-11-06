@@ -1,6 +1,6 @@
 # Home assignment
 
-## Objective of the assignement
+## Objective of the assignment
 
 - Build a model for predicting house maintenance price
 - Optionaly build a model for predicting the house condition
