@@ -13,4 +13,4 @@ The dataset is in the file 'simulated_data.py', which is a simple class to gener
 
 ## resources 
 
-Use any tools you find useful to solve the problem
+Use any tools you find useful to solve the problem. Produce what you can do and cap yoursel at max 2 hours.
